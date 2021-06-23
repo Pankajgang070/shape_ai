@@ -1,0 +1,1 @@
+Current temperature is: 38.69 deg C    Current weather desc :clear sky    Current Humidity :33%    Current wind speed :1.22kmph
